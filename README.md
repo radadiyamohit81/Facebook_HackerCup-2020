@@ -3,8 +3,8 @@
 ## Qualification Round
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|A| [Travel Restrictions](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/A)| [Python](./Qualification%20Round/travel_restrictions.py)| _O(N^2)_ | _O(N^2)_ | Easy | | Graph |
-|B| [Alchemy](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/B)| [Python](./Qualification%20Round/alchemy.py)| _O(N)_ | _O(1)_ | Easy | | Math |
-|C| [Timber](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/C) | [Python](./Qualification%20Round/timber.py) | _O(NlogN)_ | _O(N)_ | Medium | | DP |
-|D1| [Running on Fumes - Chapter 1](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D1)| [Python](./Qualification%20Round/running_on_fumes_chapter_1.py) | _O(N)_ | _O(M)_ | Medium | | Mono Deque |
-|D2| [Running on Fumes - Chapter 2](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D2)| [Python](./Qualification%20Round/running_on_fumes_chapter_2.py) | _O(NlogN)_ | _O(N)_ | Hard | | DFS, BFS, Segment Tree |
+|A| [Travel Restrictions](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/A)| [Python](./A/Travel_Restrictions.py)| _O(N^2)_ | _O(N^2)_ | Easy | | Graph |
+|B| [Alchemy](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/B)| [Python](./B/alchemy_new.py)| _O(N)_ | _O(1)_ | Easy | | Math |
+|C| [Timber](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/C) | [Python](./C/timber.py) | _O(NlogN)_ | _O(N)_ | Medium | | DP |
+|D1| [Running on Fumes - Chapter 1](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D1)| [Python](./Chap-1/Running_Fumes-chap1.py) | _O(N)_ | _O(M)_ | Medium | | Mono Deque |
+|D2| [Running on Fumes - Chapter 2](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D2)| [Python](./Chap-2/Running_on_fumes-chap2.py) | _O(NlogN)_ | _O(N)_ | Hard | | DFS, BFS, Segment Tree |
